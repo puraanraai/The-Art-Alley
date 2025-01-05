@@ -24,7 +24,7 @@
         <li><a href="gallery.php">Gallery</a></li>
         <li><a href="artists.php">Artists</a></li>
         <li><a href="about.php">About Us</a></li>
-        <li><a href="sign_in.php">Sign In</a></li>
+        <li><a href="login">Sign In</a></li>
       </ul>
     </nav>
   </header>
