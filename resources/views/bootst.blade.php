@@ -10,10 +10,7 @@
             </div>
             <div class="row">
                 <div class="ink">Ink</div>
-            </div>
-
-
-            
+            </div>         
         </div>
     </x-slot>
 </x-header>
